@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+}
+
+#boximage {
+    height: 100%;
+    width: 100%;
+    border: 5px solid black;
+}
